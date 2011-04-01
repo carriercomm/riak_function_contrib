@@ -1,6 +1,6 @@
 # Riak Function Contrib
 
-Riak Function Contrib is a community-powered library of MapReduce, Pre-/Post-Commit Hook, and other functions. It exists for several reasons:
+Bleh. Riak Function Contrib is a community-powered library of MapReduce, Pre-/Post-Commit Hook, and other functions. It exists for several reasons:
 
 1. So Riak users can contribute functions they've written back to the community in one centralized, easy-to-manage location
 2. To provide users who are new to Riak with a list of previously-created and tested functions that may suit their usage needs 
